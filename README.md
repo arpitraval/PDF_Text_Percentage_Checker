@@ -8,5 +8,7 @@ Many PDF documents contain searchable text, making it easy to extract informatio
 
 ## Requirements
 
+```
 - Python 3.x
 - PyMuPDF (fitz) library
+```
